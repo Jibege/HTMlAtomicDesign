@@ -1,0 +1,94 @@
+:root {
+    --color-1: black;
+    --color-2: #D95A13;
+    --color-3: #F7B193;
+    --color-4: #8B82BD;
+    --color-5: #DBD3EA;
+    --font-1:  'Rowdies', cursive;
+    --font-2:  'Josefin Sans', sans-serif;
+    --font-size-1:70px;
+    --font-size-2:40px;
+    --font-size-3:15px;    
+    --font-size-4:12px;
+
+  }
+ 
+/*
+.couleur-logo {
+    fill: var(--main-color-3);
+}
+
+.size-icon { 
+  height: 25px;  
+  fill: var(--main-color-3);
+}
+*/
+.text_rowdies{
+    font-family: var(--font-1);
+}
+
+.text_josefin{
+    font-family: var(--font-2);
+}
+
+.text_orange {
+    color: var(--color-2);
+}
+.text_orange2 {
+    color:var(--color-3);
+}
+.text_violet{
+    color:var(--color-4);
+}
+.text_violet2{
+    color: var(--color-5);
+}
+
+.background_orange{
+    background-color: var(--color-2);
+}
+.background_orange2 {
+    background-color:var(--color-3);
+}
+
+.background_violet {
+    background-color: var(--color-4);
+}
+
+.background_violet2 {
+    background-color:var(--color-5);
+}
+
+
+
+.text_70px {
+    font-size: var(--font-size-1);
+}
+.text_40px {
+    font-size: var(--font-size-2);
+}
+
+
+
+.text_15px {
+    font-size: var(--font-size-3);
+}
+
+.text_12px {
+    font-size: var(--font-size-4);
+}
+
+.puce_orange7px {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--color-2);
+}
+
+.puce_violet35px {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background:var(--color-4);
+}
+
