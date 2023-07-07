@@ -27,6 +27,14 @@
     font-family: var(--font-1);
 }
 
+.logo_color {
+    fill: var(--color-3)
+}
+
+.logo_size {
+    width: 100px;
+}
+
 .text_josefin{
     font-family: var(--font-2);
 }
